@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A1S8B9q+VDx+s8gGTw9pzv0WSJBdUWgXZ4cOuf6/EEk=",
+  "Source": "ClickHouseApi",
+  "BasePath": "_content/ClickHouseApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
